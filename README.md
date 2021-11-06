@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on any level of experience developers so that I could help him and learn and build my career into depth of computer science
 - 📫 How to reach me email: shayanhussain48@gmail.com call: 03351277730
 
-  MY SOCIAL ACCOUNTS: 
+  MY SOCIAL ACCOUNTS:
   LinkedIn: https://www.linkedin.com/in/shayan-m-hussain-a6a3301a6/
   Facebook: https://web.facebook.com/shayan.hussain.37266
   Twitter: https://twitter.com/shayanmhussain1
