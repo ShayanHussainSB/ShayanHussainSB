@@ -10,7 +10,7 @@
   LinkedIn: https://www.linkedin.com/in/shayan-m-hussain-a6a3301a6/ <br />
   Facebook: https://web.facebook.com/shayan.hussain.37266 <br />
   Twitter: https://twitter.com/shayanmhussain1 <br />
-  Intagram: https://www.instagram.com/s_shani_b/ <br />
+  Instagram: https://www.instagram.com/s_shani_b/ <br />
  
 <!---
 ShayanHussainSB/ShayanHussainSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
