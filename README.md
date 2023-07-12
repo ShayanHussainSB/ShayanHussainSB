@@ -12,7 +12,7 @@
 - 📫 How to reach me email: shayanhussain48@gmail.com
 
   MY SOCIAL ACCOUNTS: <br />
-  - LinkedIn: https://www.linkedin.com/in/shayan-m-hussain-a6a3301a6/ <br />
+  - LinkedIn: https://www.linkedin.com/in/shayanhussainsb <br />
   - Facebook: https://web.facebook.com/shayan.hussain.37266 <br />
   - Twitter: https://twitter.com/shayanmhussain1 <br />
   - Instagram: https://www.instagram.com/s_shani_b/ <br />
