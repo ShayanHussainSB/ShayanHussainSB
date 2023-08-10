@@ -10,8 +10,9 @@ interested in connecting or discussing potential collaborations, feel free to re
   - 👀 I’m interested in building professional softwares & helful tools that provide ease to my work.
   - 🌱 I’m currently learning artifical inteligence (ML/Dl) in python, blockchain and woking on my programming skills to persue a future in them.
   - 💞️ I’m looking to collaborate on any level of experience developers so that I could help him and learn and build my career into depth of computer science
-  - 📫 How to reach me email: shayanhussain48@gmail.com
-
+  
+### 📫 How to reach me 
+  - email: shayanhussain48@gmail.com
   - LinkedIn: https://www.linkedin.com/in/shayanhussainsb <br />
   - Facebook: https://web.facebook.com/shayan.hussain.37266 <br />
   - Twitter: https://twitter.com/_RockstarSB <br />
