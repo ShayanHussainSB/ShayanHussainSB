@@ -12,7 +12,7 @@ interested in connecting or discussing potential collaborations, feel free to re
   - 💞️ I’m looking to collaborate on any level of experience developers so that I could help him and learn and build my career into depth of computer science
   
 ### 📫 How to reach me 
-  - email: shayanhussain48@gmail.com
+  - Email: shayanhussain48@gmail.com
   - LinkedIn: https://www.linkedin.com/in/shayanhussainsb <br />
   - Facebook: https://web.facebook.com/shayan.hussain.37266 <br />
   - Twitter: https://twitter.com/_RockstarSB <br />
