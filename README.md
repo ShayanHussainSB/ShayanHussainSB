@@ -19,7 +19,7 @@ I'm excited about the prospect of connecting with like-minded individuals and en
   - LinkedIn: https://www.linkedin.com/in/shayanhussainsb 📎
   - Facebook: https://web.facebook.com/shayan.hussain.37266 🔵
   - Twitter: https://twitter.com/_RockstarSB 🐦
-  - Instagram: https://www.instagram.com/s_shani_b/ 📸
+  - Instagram: https://www.instagram.com/s_shani_b/ 📸 
 
  
 <!---
