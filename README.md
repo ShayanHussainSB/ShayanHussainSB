@@ -2,19 +2,20 @@
 
 🌐 My tech toolkit includes:
 
-💻 Node.js: Crafting dynamic and high-performance applications with JavaScript/TypeScript.
-🛢️ Microservices: Designing resilient and modular systems that scale effortlessly.
-🐳 Docker: Streamlining development and deployment, ensuring consistency across environments.
-📝 TypeScript: Enhancing code quality and maintainability through strong typing.
-⛓️ Solana Blockchain: Leveraging blockchain technology to build decentralised and secure solutions.
-🦀 Rust: Exploring the power of Rust for performance-critical components.
-🗃️ Databases: Expertise in both relational and non-relational databases, optimising data management.
-💼 ORMs: Proficient in various Object-Relational Mapping tools, streamlining database interactions.
+  - 💻 Node.js: Crafting dynamic and high-performance applications with JavaScript/TypeScript.
+  - 🛢️ Microservices: Designing resilient and modular systems that scale effortlessly.
+  - 🐳 Docker: Streamlining development and deployment, ensuring consistency across environments.
+  - 📝 TypeScript: Enhancing code quality and maintainability through strong typing.
+  - ⛓️ Solana Blockchain: Leveraging blockchain technology to build decentralised and secure solutions.
+  - 🦀 Rust: Exploring the power of Rust for performance-critical components.
+  - 🗃️ Databases: Expertise in both relational and non-relational databases, optimising data management.
+  - 💼 ORMs: Proficient in various Object-Relational Mapping tools, streamlining database interactions.
 
 🔍 My passion for technology extends beyond coding. I thrive on collaborating with cross-functional teams to transform ideas into impactful products. Whether it's optimising backend processes, integrating Solana blockchain for cutting-edge applications, diving into Rust for performance optimisation, or designing efficient database architectures, I'm committed to pushing boundaries and exploring new horizons.
 
 🌱 Let's connect and explore opportunities to create something exceptional together. I'm open to new projects, collaborations, and challenges that demand innovation.
-### 📫 Feel free to reach me 
+
+#### 📫 Feel free to reach me 
   - Email: shayanhussain48@gmail.com
   - LinkedIn: https://www.linkedin.com/in/shayanhussainsb 📎
   - Facebook: https://web.facebook.com/shayan.hussain.37266 🔵
