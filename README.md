@@ -20,8 +20,6 @@
   - LinkedIn: https://www.linkedin.com/in/shayanhussainsb 📎
   - Twitter: https://twitter.com/_RockstarSB 🐦
 
-#FullStackDeveloper #Nodejs #Microservices #Docker #TypeScript #SolanaBlockchain #Rust #DatabaseExpert #ORM #Innovation #WebDevelopment #TechEnthusiast
-
  
 <!---
 ShayanHussainSB/ShayanHussainSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
