@@ -18,9 +18,7 @@
 #### 📫 Feel free to reach me 
   - Email: shayanhussain48@gmail.com
   - LinkedIn: https://www.linkedin.com/in/shayanhussainsb 📎
-  - Facebook: https://web.facebook.com/shayan.hussain.37266 🔵
   - Twitter: https://twitter.com/_RockstarSB 🐦
-  - Instagram: https://www.instagram.com/s_shani_b/ 📸
 
 #FullStackDeveloper #Nodejs #Microservices #Docker #TypeScript #SolanaBlockchain #Rust #DatabaseExpert #ORM #Innovation #WebDevelopment #TechEnthusiast
 
