@@ -2,14 +2,14 @@
 
 🌐 My tech toolkit includes:
 
-  - 💻 Node.js: Crafting dynamic and high-performance applications with JavaScript/TypeScript.
-  - 🛢️ Microservices: Designing resilient and modular systems that scale effortlessly.
-  - 🐳 Docker: Streamlining development and deployment, ensuring consistency across environments.
-  - 📝 TypeScript: Enhancing code quality and maintainability through strong typing.
-  - ⛓️ Solana Blockchain: Leveraging blockchain technology to build decentralised and secure solutions.
-  - 🦀 Rust: Exploring the power of Rust for performance-critical components.
-  - 🗃️ Databases: Expertise in both relational and non-relational databases, optimising data management.
-  - 💼 ORMs: Proficient in various Object-Relational Mapping tools, streamlining database interactions.
+  - 💻 <b>Node.js</b>: Crafting dynamic and high-performance applications with JavaScript/TypeScript.
+  - 🛢️ <b>Microservices</b>: Designing resilient and modular systems that scale effortlessly.
+  - 🐳 <b>Docker</b>: Streamlining development and deployment, ensuring consistency across environments.
+  - 📝 <b>TypeScript</b>: Enhancing code quality and maintainability through strong typing.
+  - ⛓️ <b>Solana Blockchain</b>: Leveraging blockchain technology to build decentralised and secure solutions.
+  - 🦀 <b>Rust</b>: Exploring the power of Rust for performance-critical components.
+  - 🗃️ <b>Databases</b>: Expertise in both relational and non-relational databases, optimising data management.
+  - 💼 <b>ORMs</b>: Proficient in various Object-Relational Mapping tools, streamlining database interactions.
   - ☁️ Cloud Services: Proficient in deploying and managing applications on platforms like DigitalOcean, AWS (EC2), Google Cloud, and more.
 
 🔍 My passion for technology extends beyond coding. I thrive on collaborating with cross-functional teams to transform ideas into impactful products. Whether it's optimising backend processes, integrating Solana blockchain for cutting-edge applications, diving into Rust for performance optimisation, or designing efficient database architectures, I'm committed to pushing boundaries and exploring new horizons.
