@@ -5,6 +5,7 @@
   - 💻 Node.js: Crafting dynamic and high-performance applications with JavaScript/TypeScript.
   - 🛢️ Microservices: Designing resilient and modular systems that scale effortlessly.
   - 🐳 Docker: Streamlining development and deployment, ensuring consistency across environments.
+  - ☁️ Cloud Services: Proficient in deploying and managing applications on platforms like DigitalOcean, AWS (EC2), Google Cloud, and more.
   - 📝 TypeScript: Enhancing code quality and maintainability through strong typing.
   - ⛓️ Solana Blockchain: Leveraging blockchain technology to build decentralised and secure solutions.
   - 🦀 Rust: Exploring the power of Rust for performance-critical components.
