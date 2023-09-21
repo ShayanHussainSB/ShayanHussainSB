@@ -10,7 +10,7 @@
   - 🦀 <b>Rust</b>: Exploring the power of Rust for performance-critical components.
   - 🗃️ <b>Databases</b>: Expertise in both relational and non-relational databases, optimising data management.
   - 💼 <b>ORMs</b>: Proficient in various Object-Relational Mapping tools, streamlining database interactions.
-  - ☁️ Cloud Services: Proficient in deploying and managing applications on platforms like DigitalOcean, AWS (EC2), Google Cloud, and more.
+  - ☁️ <b>Cloud Services</b>: Proficient in deploying and managing applications on platforms like DigitalOcean, AWS (EC2), Google Cloud, and more.
 
 🔍 My passion for technology extends beyond coding. I thrive on collaborating with cross-functional teams to transform ideas into impactful products. Whether it's optimising backend processes, integrating Solana blockchain for cutting-edge applications, diving into Rust for performance optimisation, or designing efficient database architectures, I'm committed to pushing boundaries and exploring new horizons.
 
