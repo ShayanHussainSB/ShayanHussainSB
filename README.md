@@ -20,8 +20,6 @@
   - Email: shayanhussain48@gmail.com
   - LinkedIn: https://www.linkedin.com/in/shayanhussainsb 📎
   - Twitter: https://twitter.com/_RockstarSB 🐦
-    
-
 
 
 <!---
