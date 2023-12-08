@@ -20,11 +20,6 @@
   - Email: shayanhussain48@gmail.com
   - LinkedIn: https://www.linkedin.com/in/shayanhussainsb 📎
   - Twitter: https://twitter.com/_RockstarSB 🐦
-
-
-
-
-
 <!---
 ShayanHussainSB/ShayanHussainSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
