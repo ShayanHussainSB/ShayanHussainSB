@@ -1,18 +1,20 @@
-👋 Hello! I'm Shayan Hussain, a passionate Full-Stack Web Developer with expertise in building robust backend systems, utilising Node.js, Microservices architecture, and Docker for seamless deployments. My skills extend to crafting efficient and scalable solutions that drive innovation and elevate user experiences.
+👋 Hello! I'm Shayan Hussain, Experienced Solana Web3 Developer and Full Stack Engineer with a strong track record in launching decentralized applications across the Solana ecosystem. Proven expertise in smart contract development using Rust and Anchor, with deep familiarity with SPL Token programs, Candy Machine, Bubblegum compression, and Metaplex. Known for building scalable blockchain integrations, SDKs, and maintaining production-ready smart contracts. Open to global opportunities and passionate about pushing the boundaries of Web3.
+
 
 #### 🌐 My tech toolkit includes:
-
-  - 💻 <b>Node.js</b>: Crafting dynamic and high-performance applications with JavaScript/TypeScript.
-  - 🛢️ <b>Microservices</b>: Designing resilient and modular systems that scale effortlessly.
-  - 🐳 <b>Docker</b>: Streamlining development and deployment, ensuring consistency across environments.
-  - 📝 <b>TypeScript</b>: Enhancing code quality and maintainability through strong typing.
-  - ⛓️ <b>Solana Blockchain</b>: Leveraging blockchain technology to build decentralised and secure solutions.
-  - 🦀 <b>Rust</b>: Exploring the power of Rust for performance-critical components.
-  - 🗃️ <b>Databases</b>: Expertise in both relational and non-relational databases, optimising data management.
-  - 💼 <b>ORMs</b>: Proficient in various Object-Relational Mapping tools, streamlining database interactions.
+  - 🐳 <b>DevOps & Infra</b>: Linux, Docker, EC2, Microservices, Git, Jest, WebSockets.
+  - 📝 <b>Languages</b>: Rust, TypeScript, JavaScript, Python, C#, PHP.
+  - ⛓️ <b>Blockchain & Smart Contracts</b>: Solana, Rust, Anchor, SPL Token, SPL Account Compression, Bubblegum, Token Metadata, Metaplex, Candy Machine, Solana CLI.
+  - 🦀 <b>Full Stack</b>: Node.js, Next.js, React.js, Express.js.
+  - 🗃️ <b>Databases</b>: Expertise in both relational and non-relational databases, MongoDB, PostgreSQL, GraphQL, CockrochDB, etc.
   - ☁️ <b>Cloud Services</b>: Proficient in deploying and managing applications on platforms like DigitalOcean, AWS (EC2), Google Cloud, and more.
 
-🔍 My passion for technology extends beyond coding. I thrive on collaborating with cross-functional teams to transform ideas into impactful products. Whether it's optimising backend processes, integrating Solana blockchain for cutting-edge applications, diving into Rust for performance optimisation, or designing efficient database architectures, I'm committed to pushing boundaries and exploring new horizons.
+## Notable Projects
+* <b>Honeycomb Protocol (Solana Ecosystem)</b>
+  Contributed as a core team member; worked across smart contract layer, SDKs, and project onboarding. Protocol recently transitioned to closed-source.
+
+* <b>Ocean Explorers, Rfrsh, SolPatrol, Pooks, Fractures</b>
+  Built blockchain backends and on-chain programs powering NFT mints, asset logic, and gamified mechanics.
 
 🌱 Let's connect and explore opportunities to create something exceptional together. I'm open to new projects, collaborations, and challenges that demand innovation.
 
