@@ -9,7 +9,7 @@
   - 🗃️ <b>Databases</b>: Expertise in both relational and non-relational databases, MongoDB, PostgreSQL, GraphQL, CockrochDB, etc.
   - ☁️ <b>Cloud Services</b>: Proficient in deploying and managing applications on platforms like DigitalOcean, AWS (EC2), Google Cloud, and more.
 
-## Notable Projects
+### Notable Projects
 * <b>Honeycomb Protocol (Solana Ecosystem)</b>
   Contributed as a core team member; worked across smart contract layer, SDKs, and project onboarding. Protocol recently transitioned to closed-source.
 
