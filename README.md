@@ -4,10 +4,10 @@
 #### 🌐 My tech toolkit includes:
   - 🐳 <b>DevOps & Infra</b>: Linux, Docker, EC2, Microservices, Git, Jest, WebSockets.
   - 📝 <b>Languages</b>: Rust, TypeScript, JavaScript, Python, C#, PHP.
-  - ⛓️ <b>Blockchain & Smart Contracts</b>: Solana, Rust, Anchor, SPL Token, SPL Account Compression, Bubblegum, Token Metadata, Metaplex, Candy Machine, Solana CLI.
+  - ⛓️ <b>Blockchain & Smart Contracts</b>: Solana, Rust, Anchor, Metaplex (PNFT , CNFT), Bubblegum MPL Core Programs, CandyMachine Program, Web3 Integration, Token Programs, NFT Platforms, State Compression, Digital Asset Standard (DAS), Liqidity Providers (Metora, Orca, etc.).
   - 🦀 <b>Full Stack</b>: Node.js, Next.js, React.js, Express.js.
-  - 🗃️ <b>Databases</b>: Expertise in both relational and non-relational databases, MongoDB, PostgreSQL, GraphQL, CockrochDB, etc.
-  - ☁️ <b>Cloud Services</b>: Proficient in deploying and managing applications on platforms like DigitalOcean, AWS (EC2), Google Cloud, and more.
+  - 🗃️ <b>Databases</b>: Expertise in both relational and non-relational databases, PostgreSQL, MySQL, MongoDB, CockroachDB, Redis.
+  - ☁️ <b>Cloud Services</b>: Proficient in deploying and managing applications on platforms like Linux, Docker, AWS EC2, Microsoft Azure VM, DigitalOcean, Microservices, WebSockets, WebHooks.
 
 ### Notable Projects
 * <b>Honeycomb Protocol (Solana Ecosystem)</b>
