@@ -2,7 +2,6 @@
 <h1 align="left">Shayan Hussain</h1>
 
 <p align="center">
-  <a href="mailto:shayanhussain48@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shayanhussain48%40gmail.com-informational?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/shayanhussainsb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@shayanhussainsb-blue?logo=linkedin"></a>
   <a href="https://twitter.com/_RockstarSB"><img alt="X" src="https://img.shields.io/badge/X-@_RockstarSB-black?logo=x"></a>
   <a href="https://crates.io/users/ShayanHussainSB"><img alt="crates.io" src="https://img.shields.io/badge/crates.io-Profile-orange?logo=rust"></a>
