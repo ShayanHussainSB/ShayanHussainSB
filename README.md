@@ -40,16 +40,16 @@ Full-stack + Web3 engineer focused on **Solana smart contracts, high-throughput 
 
 ## 🏆 Solo Achievements & Releases
 - **bunWay (npm)** — Bun-native router with Express-style DX  
-  <a href="https://www.npmjs.com/package/bunway">package</a> · <img alt="ver" src="https://img.shields.io/npm/v/bunway?logo=npm"> <img alt="dl" src="https://img.shields.io/npm/dw/bunway?logo=npm&label=downloads">
+  <a href="https://www.npmjs.com/package/bunway"><img alt="ver" src="https://img.shields.io/npm/v/bunway?logo=npm"></a>
 
 - **Resource Manager (npm)** — `@honeycomb-protocol/resource-manager`  
-  <a href="https://www.npmjs.com/package/@honeycomb-protocol/resource-manager">package</a> · <img alt="ver" src="https://img.shields.io/npm/v/@honeycomb-protocol/resource-manager?logo=npm"> <img alt="dl" src="https://img.shields.io/npm/dw/@honeycomb-protocol/resource-manager?logo=npm&label=downloads">
+  <a href="https://www.npmjs.com/package/@honeycomb-protocol/resource-manager"><img alt="ver" src="https://img.shields.io/npm/v/@honeycomb-protocol/resource-manager?logo=npm"> </a>
 
 - **HplEdgeClient (NuGet)** — Edge client utilities used in prod services  
-  <a href="https://www.nuget.org/packages/HplEdgeClient">package</a> · <img alt="ver" src="https://img.shields.io/nuget/v/HplEdgeClient?logo=nuget"> <img alt="dl" src="https://img.shields.io/nuget/dt/HplEdgeClient?logo=nuget">
+  <a href="https://www.nuget.org/packages/HplEdgeClient"><img alt="ver" src="https://img.shields.io/nuget/v/HplEdgeClient?logo=nuget"></a>
 
 - **hpl-resource-manager (crates.io)** — Rust crate for resource accounting  
-  <a href="https://crates.io/crates/hpl-resource-manager">crate</a> · <img alt="ver" src="https://img.shields.io/crates/v/hpl-resource-manager?logo=rust"> <img alt="dl" src="https://img.shields.io/crates/d/hpl-resource-manager?logo=rust">
+  <a href="https://crates.io/crates/hpl-resource-manager"><img alt="ver" src="https://img.shields.io/crates/v/hpl-resource-manager?logo=rust"></a>
 
 > More across profiles: <a href="https://www.npmjs.com/~rockstar_sb">npm</a> · <a href="https://crates.io/users/ShayanHussainSB">crates.io</a>. Some work is closed-source but shipped to production.
 
