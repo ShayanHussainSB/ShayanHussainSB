@@ -21,7 +21,7 @@ Before this, I spent 4 years as a Senior Software Engineer shipping developer pl
 
 ---
 
-## Open Source — JointOps
+## Projects & Contributions
 
 ### hitlimit — High-Performance Rate Limiter
 <a href="https://hitlimit.jointops.dev"><img src="https://img.shields.io/badge/Docs-hitlimit.jointops.dev-6366f1?style=flat-square"></a>
