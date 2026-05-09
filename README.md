@@ -13,7 +13,7 @@
 
 I believe the best software is invisible — it just works, and other people build great things on top of it. That's what I do. I build backend infrastructure, developer tooling, and open source packages that solve real problems for real engineers.
 
-Right now I'm building **JointOps** — a collection of open source tools for the Node.js and Bun ecosystem. A rate limiter that handles 3M+ requests per second. A Bun framework that lets Express teams migrate with zero rewrites. A graceful shutdown library that replaces 50+ lines of boilerplate with a single import. And a trust protocol for Solana that tackles the 98.6% scam rate on token launches.
+Right now I'm building **JointOps** a collection of open source tools for the Node.js and Bun ecosystem. A rate limiter that handles 3M+ requests per second. A Bun framework that lets Express teams migrate with zero rewrites. A graceful shutdown library that replaces 50+ lines of boilerplate with a single import. And a trust protocol for Solana that tackles the 98.6% scam rate on token launches.
 
 Before this, I spent 4 years as a Senior Software Engineer shipping developer platforms, SDKs in 4 languages, and Solana programs to mainnet. 10+ production services. Zero security incidents. 3x hackathon winner.
 
@@ -46,12 +46,6 @@ Before this, I spent 4 years as a Senior Software Engineer shipping developer pl
 - Single import auto-detects servers, databases, and caches
 - Supports Express, Fastify, Prisma, Redis, BullMQ, Mongoose, Knex
 - Kubernetes-ready health check endpoints
-
-### TUP — Token Utility Protocol (Building Now)
-<a href="https://tup.jointops.dev"><img src="https://img.shields.io/badge/Docs-tup.jointops.dev-f59e0b?style=flat-square"></a>
-
-- Trust infrastructure for Solana's token economy (pump.fun hackathon)
-- Behavioral reputation scoring, automated rug detection, on-chain insurance
 
 ---
 
